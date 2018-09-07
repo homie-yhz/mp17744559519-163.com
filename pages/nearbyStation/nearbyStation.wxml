@@ -1,0 +1,3 @@
+<view>ceshi wenzi 
+  <navigator url="/nearbyStation/nearbyStation">nearbyStation</navigator>
+</view>
